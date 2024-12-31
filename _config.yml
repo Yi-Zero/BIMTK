@@ -1,0 +1,6 @@
+remote_theme: pages-themes/cayman@v0.2.0
+plugins:
+- jekyll-remote-theme # add this line to the plugins list if you already have one
+
+title: ["BIM题库"]
+description: [欢迎浏览此本站，本站所有文件均来自网络收集，如有侵权行为或其他意见请联系(Email:yizero_o@163.com).]
